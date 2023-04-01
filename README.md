@@ -11,4 +11,6 @@ The search identified 129 relevant papers. We derived a taxonomy from the review
 Different communities in the field of software engineering use the pattern concept. Pattern-based approaches are mature in some areas but are just getting started in others. The study recommends standardizing pattern descriptions and establishing explicit conventions for pattern type definitions. The study proposes to reinforce the research field with feedback and success stories on the use of patterns in an industrial context.
 # Replication package content
 In this folder, we provide the assets necessary to replicate this study and the obtained results:
-* Bibliography: Reference file (bibtex) containing the informations of the selected primary studies.
+* Primary Studies: A reference file (bibtex) containing the information of the selected primary studies
+* Raw data: contains the correspondence between the paper ID used in the classification and the reference defined in the bibtex file. In addition, it contains raw data extracted from the primary studies.
+* Taxonomy: the taxonomy derived from this study as an SLR result
