@@ -15,8 +15,4 @@ In this folder, we provide the assets necessary to replicate this study and the 
 * Related Survey: A reference file (bibtex) containing information about the studies surveying the concept of patterns in the software engineering field.
 * Search string per database : A file describing the employed search string per database.
 * Raw data: A file that contains the correspondence between the paper ID used in the classification and the reference defined in the bibtex file. In addition, it contains raw data extracted from the primary studies.
-* Results: A folder that contains the obtained results. This folder includes :
-** The taxonomy derived from this study 
-** The classification of the primary studies with respect to the taxonomy (the classification for each sub-category of the taxonomy)
-** The cross-analysis 
-** The figures that synthesize the obtained analysis results
+* Results: A folder that contains the obtained results. This folder includes: (i) the taxonomy derived from this study; (ii) the classification of the primary studies with respect to the taxonomy (the classification for each sub-category of the taxonomy); (iii) the cross-analysis; and (iv) the figures that synthesize the obtained analysis results.
