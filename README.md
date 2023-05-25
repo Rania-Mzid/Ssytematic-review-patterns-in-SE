@@ -1,4 +1,5 @@
-# Research Landscape of Patterns in Software Engineering : A Systematic Literature Review
+# Research Landscape of Patterns in Software Engineering : A Systematic Literature Review 
+ DOI: 10.5281/zenodo.7970476
 ## Context
 Software system development is a challenging task. Pattern-based development has been effectively employed to simplify and accelerate the development of high-quality systems. In general, a pattern is described as a context-specific solution to a recurrent problem. They consequently offer an important platform for experience sharing and reuse.
 ## Objective 
